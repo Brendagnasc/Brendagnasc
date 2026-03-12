@@ -1,13 +1,13 @@
 # Olá, eu sou a Brenda! 👋
 
-👩‍💻 **Estudante de Ciência da Computação | Desenvolvedora de Software**
+👩‍💻 **Estudante de Ciência da Computação**
 
-Atualmente a frequentar o 4º período de **Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)**. Sou apaixonada por resolver problemas complexos e construir software eficiente. Tenho um interesse especial por engenharia de software, arquitetura de sistemas e algoritmos estruturados.
+Atualmente a frequentar o 5º período de **Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)**. Sou apaixonada por resolver problemas complexos e construir software eficiente. Tenho um interesse especial por engenharia de software, arquitetura de sistemas e algoritmos estruturados.
 
 ### 🎓 Sobre mim
 - 🔭 Atualmente a trabalhar em **projetos de desenvolvimento em C/C++ e interfaces gráficas**.
 - 📚 A aprofundar conhecimentos em **Sistemas Operativos, Redes de Computadores e Engenharia de Software**.
-- 💡 Forte base teórica e prática em **Estruturas de Dados, Teoria dos Grafos e Paradigmas de Programação** (Orientada a Objetos, Funcional e Imperativa).
+- 💡 Com intenção de criar uma forte base teórica e prática em **Estruturas de Dados, Teoria dos Grafos e Paradigmas de Programação** (Orientada a Objetos, Funcional e Imperativa).
 - 📫 Como contactar-me: brendagabrielleelle@gmail.com
 
 ---
@@ -37,9 +37,3 @@ Atualmente a frequentar o 4º período de **Ciência da Computação na Universi
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brendagnasc&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas da Brenda" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brendagnasc&theme=radium&hide_border=true" alt="Streak da Brenda" width="48%" />
-</p>
