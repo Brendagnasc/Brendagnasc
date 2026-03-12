@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou a Brenda! 👋
 
-<!--
-**Brendagnasc/Brendagnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Estudante de Ciência da Computação | Desenvolvedora de Software**
 
-Here are some ideas to get you started:
+Atualmente a frequentar o 4º período de **Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)**. Sou apaixonada por resolver problemas complexos e construir software eficiente. Tenho um interesse especial por engenharia de software, arquitetura de sistemas e algoritmos estruturados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Sobre mim
+- 🔭 Atualmente a trabalhar em **projetos de desenvolvimento em C/C++ e interfaces gráficas**.
+- 📚 A aprofundar conhecimentos em **Sistemas Operativos, Redes de Computadores e Engenharia de Software**.
+- 💡 Forte base teórica e prática em **Estruturas de Dados, Teoria dos Grafos e Paradigmas de Programação** (Orientada a Objetos, Funcional e Imperativa).
+- 📫 Como contactar-me: brendagabrielleelle@gmail.com
+
+---
+
+### 🛠️ Tecnologias e Linguagens
+
+**Linguagens de Programação:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
+**Fundamentos & Áreas de Conhecimento (UFOP):**
+- **Desenvolvimento & Arquitetura:** Programação Orientada a Objetos (POO), Programação Funcional, Engenharia de Software I, Arquitetura e Organização de Computadores.
+- **Algoritmos & Dados:** Estrutura de Dados I e II, Teoria dos Grafos, Matemática Discreta I e II.
+- **Sistemas & Infraestrutura:** Sistemas Operacionais, Redes de Computadores.
+- **Matemática Aplicada:** Cálculo (I, II, Vetorial e Numérico), Álgebra Linear, Geometria Analítica, Estatística e Probabilidade.
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[Quebra-Cabeças Deslizante](https://github.com/Brendagnasc/quebra-cabecas.git)**
+    * Um jogo clássico de ordenação de matrizes desenvolvido em **C**.
+    * Implementação de alocação dinâmica de memória, persistência de dados (leitura e escrita de ficheiros) e arquitetura modularizada (separação entre lógica de negócio e interface visual).
+* *Mais projetos em breve!*
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brendagnasc&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas da Brenda" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brendagnasc&theme=radium&hide_border=true" alt="Streak da Brenda" width="48%" />
+</p>
