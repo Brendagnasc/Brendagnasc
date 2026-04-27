@@ -18,7 +18,6 @@ Atualmente a frequentar o 5º período de **Ciência da Computação na Universi
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 **Fundamentos & Áreas de Conhecimento (UFOP):**
 - **Desenvolvimento & Arquitetura:** Programação Orientada a Objetos (POO), Programação Funcional, Engenharia de Software I, Arquitetura e Organização de Computadores.
