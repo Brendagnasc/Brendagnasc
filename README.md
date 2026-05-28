@@ -2,7 +2,7 @@
 
 👩‍💻 **Estudante de Ciência da Computação**
 
-Atualmente a frequentar o 5º período de **Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)**. Sou apaixonada por resolver problemas complexos e construir software eficiente. Tenho um interesse especial por engenharia de software, arquitetura de sistemas e algoritmos estruturados.
+Atualmente a frequentar o 5º período de **Ciência da Computação na Universidade Federal de Ouro Preto (UFOP)**. Estou interessada em resolver problemas complexos e construir software eficiente. Tenho um interesse especial por engenharia de software, arquitetura de sistemas e algoritmos estruturados.
 
 ### 🎓 Sobre mim
 - 🔭 Atualmente a trabalhar em **projetos de desenvolvimento em C/C++ e interfaces gráficas**.
