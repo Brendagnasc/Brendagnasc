@@ -29,6 +29,10 @@ Atualmente a frequentar o 5º período de **Ciência da Computação na Universi
 
 ### 🚀 Projetos em Destaque
 
+* **[SSL Robot Simulation](https://github.com/Brendagnasc/SSL-robot.git)**
+    * Projeto em **C++** voltado para a simulação de robôs na categoria Small Size League (SSL).
+    * Configuração de ambiente automatizada utilizando **CMake** para gerenciamento de builds e dependências.
+
 * **[Quebra-Cabeças Deslizante](https://github.com/Brendagnasc/quebra-cabecas.git)**
     * Um jogo clássico de ordenação de matrizes desenvolvido em **C**.
     * Implementação de alocação dinâmica de memória, persistência de dados (leitura e escrita de ficheiros) e arquitetura modularizada (separação entre lógica de negócio e interface visual).
